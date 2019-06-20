@@ -1,0 +1,6 @@
+echo“#yu”>> README.md 
+git init 
+git add README.md 
+git commit -m“first commit” 
+git remote add origin https://github.com/Mr-tong111/yu.git
+ git push -u origin master
